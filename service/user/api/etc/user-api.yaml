@@ -5,7 +5,7 @@ Mysql:
   DataSource: root:yangzhenqiang@tcp(127.0.0.1:3306)/book?charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai
 CacheRedis:
   - Host: 127.0.0.1:6379
-    Pass: "123"
+    Pass: ""
     Type: node
 Auth:
   AccessSecret: "hello world"
